@@ -1,0 +1,5 @@
+1.En primer lugar hay que crear el proyecto
+2.Una vez creado, abrir cmd, ir a la ruta (cd C:\Users\adria\Documents\Proyectos\flutter_web)
+3.Una vez estemos en la ruta ejecutar los siguientes comandos
+4.flutter create .
+5.flutter build web
